@@ -21,6 +21,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true
   },
-  "include": ["*.ts"],   // 👈 .ts files will be included in root dir
+  "include": ["**/*.ts"],
+   // 👈 .ts files will be included in root dir
   "exclude": ["node_modules", "dist"]
 }

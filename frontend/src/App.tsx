@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>CHat bot</h1>
+      <h3>lets start the work</h3>
     </>
   )
 }

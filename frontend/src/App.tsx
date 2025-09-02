@@ -80,8 +80,7 @@ export default function App() {
           >
             Send
           </button>
-          <p>working as intern so will come back soon</p>
-          <p>intern meet today</p>
+          
         </div>
       </div>
     </div>

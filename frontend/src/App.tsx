@@ -80,9 +80,7 @@ export default function App() {
           >
             Send
           </button>
-          <h3> internship work
-            
-          </h3>
+        
         </div>
       </div>
     </div>
